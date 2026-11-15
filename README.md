@@ -1,12 +1,20 @@
 # Contextual Stochastic Optimization with Decision-Dependent Uncertainty
 
-**Master's Research Project | 2026–2027**
+**Master's Research Project (2026–2027)**
 
-**University:** Université Paris-Saclay – CentraleSupélec  
-**Program:** M2 Operations Research and Risk Analytics (ORRA)  
-**Supervisor:** Prof. Yiping Fang  
-**Status:** Research in Progress  
+**Student:** Maryam Abed
+
+**University:** CentraleSupélec – Université Paris-Saclay
+
+**Program:** MSc Operations Research and Risk Analytics (ORRA)
+
+**Academic Supervisor:** Prof. Yiping Fang
+
+**Research Laboratory:** Industrial Engineering Laboratory
+
 **Final Defense:** April 15, 2027
+
+**Status:** Research in Progress
 
 ## Research Overview
 
